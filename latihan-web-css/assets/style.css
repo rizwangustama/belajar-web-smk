@@ -1,0 +1,40 @@
+/* h1 {
+    color: red;
+    font-size: 100px;
+}
+
+
+.heading-2 {
+    color: red;
+    font-size: 100px;
+} */
+
+
+main {
+    /* D */
+    display: flex;
+}
+
+.box-1 {
+    flex: 1;
+    height: 100px;
+    background-color: blue;
+}
+.box-2 {
+    flex: 1;
+    height: 100px;
+    background-color: red;
+}
+.box-3 {
+    flex: 1;
+    height: 100px;
+    background-color: green;
+}
+
+
+
+/* Halaman Page */
+/* h1 */
+
+/* h2 */
+
